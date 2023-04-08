@@ -24,7 +24,7 @@ table {
   tr:hover {
     background-color: #ddd;
   }
-.custom {
+  caption {
     font-family: Arial, sans-serif;
     font-size: 1.2em;
     font-weight: bold;
